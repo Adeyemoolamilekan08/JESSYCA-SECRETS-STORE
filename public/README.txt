@@ -1,0 +1,1 @@
+Replace remote image URLs with client-approved product photography before launch.
